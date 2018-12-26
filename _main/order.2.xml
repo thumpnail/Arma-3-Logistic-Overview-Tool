@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+	<order orderNumber="0" orderFrom="null" orderTo="null" nameLogistic="null" order="null"/>
+	<info amountVehicle="0" radioChannel="0"/>
+	<location wherex="0" wherey="0"/>
+	<how plane="false" helicopter="false" hmwt="false" basicTransport="false" uav="false"/>
+	<description>null</description>
+</order>

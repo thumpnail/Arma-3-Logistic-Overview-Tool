@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+	<order orderNumber="1" orderFrom="Jack" orderTo="nexus" nameLogistic="nick" order="Medic"/>
+	<info amountVehicle="3" radioChannel="120.05"/>
+	<location wherex="025" wherey="020"/>
+	<how plane="false" helicopter="false" hmwt="true" basicTransport="false" uav="false"/>
+	<description>nothing</description>
+</order>
