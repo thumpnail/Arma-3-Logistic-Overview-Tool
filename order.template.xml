@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+	<order orderNumber="" nameOrder="" nameLogistic="" order=""/>
+	<additional_info logistic_leader="" amount_vehicle="" radio_channel=""/>
+	<location where=""/>
+	<how plane="false" helicopter="false" hmwt="false" besicTransport="false" uav="false"/>
+	<status status="0" /> 
+	<statistic transportVehicleDistroyed="" enemyContact="" problems=""/>
+	<info description=""/>
+</order>

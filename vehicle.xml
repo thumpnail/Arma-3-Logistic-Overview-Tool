@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicle>
+	<garage1 truck1="true" truck2="true" truck3="true"/>
+	<garage2 truck1="true" truck2="true" truck3="true"/>
+	<garage3 truck1="true" truck2="true" truck3="true"/>
+	<garage4 truck1="true" truck2="true" truck3="true"/>
+	<garage5 truck1="true" truck2="true" truck3="true"></garage5>
+	<garage6 />
+	<schuppen1 />
+	<schuppen2 />
+	<fuhrpark1 />
+	<fuhrpark2 />
+</vehicle>
